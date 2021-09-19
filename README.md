@@ -4,7 +4,10 @@
 [![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)](https://github.com/topics/javascript)
 [![NodeJS](https://img.shields.io/badge/node-blue?logo=node.js)](https://github.com/topics/node)
 
-Command line interface (CLI) application example in NodeJS.
+Simple Command line interface (CLI) application example in NodeJS.
+
+This is a simple example that shows how you can natively play around with the NodeJS command arguments.
+If you want a complete solution for building NodeJS CLI applications, I'd suggest you go for the [Commander](https://github.com/tj/commander.js) library 😻.
 
 ![Screenshot](./screenshot.gif?raw=true)
 

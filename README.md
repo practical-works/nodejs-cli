@@ -18,7 +18,7 @@ Command line interface (CLI) application example in NodeJS.
 ```bash
 node nodejs-cli
 ```
-this will automaticly execute the `index.js` file inside the `nodejs-cli` folder.
+this will automatically execute the `index.js` file inside the `nodejs-cli` folder.
 > **Output:** No options provided.
 
 
